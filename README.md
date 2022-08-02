@@ -1,3 +1,8 @@
+Integrando um backend em Node.js com um frontend em React para um E-commerce. Onde foi realizado alterções em relação ao projeto original. A tela principal do projeto segue abaixo:
+
+![](src/components/img/Dio-shopping.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
