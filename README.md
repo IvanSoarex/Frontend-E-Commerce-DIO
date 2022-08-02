@@ -1,4 +1,4 @@
-Integrando um backend em Node.js com um frontend em React para um E-commerce. Onde foi realizado alterções em relação ao projeto original. A tela principal do projeto segue abaixo:
+Integrando um backend em Node.js com um frontend em React para um E-commerce. Onde foi realizado alterações em relação ao projeto original. A tela principal do projeto segue abaixo:
 
 ![](src/components/img/Dio-shopping.png)
 
